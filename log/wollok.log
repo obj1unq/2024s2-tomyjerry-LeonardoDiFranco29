@@ -2423,3 +2423,8 @@
 {"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-08-26T22:31:35.405Z"}
 {"failures":[],"level":"info","message":"🧪 Test runner executed on c:/Users/publico/Desktop/obj1/2024s2-tomyjerry-LeonardoDiFranco29","result":{"failed":0,"ok":1},"timeElapsed":966,"timestamp":"2024-08-26T22:33:54.867Z"}
 {"failures":[],"level":"info","message":"🧪 Test runner executed on c:/Users/publico/Desktop/obj1/2024s2-tomyjerry-LeonardoDiFranco29","result":{"failed":0,"ok":1},"timeElapsed":1038,"timestamp":"2024-08-26T22:34:06.503Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":426,"timestamp":"2024-08-26T22:34:55.183Z"}
+{"level":"info","message":"⌛ Validating tomyjerry.wlk","timeElapsed":553,"timestamp":"2024-08-26T22:34:55.788Z"}
+{"level":"info","message":"⌛ Validating tomyjerry.wtest","timeElapsed":256,"timestamp":"2024-08-26T22:34:56.084Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":454,"timestamp":"2024-08-26T22:35:17.202Z"}
+{"level":"info","message":"⌛ Validating tomyjerry.wlk","timeElapsed":449,"timestamp":"2024-08-26T22:35:17.704Z"}
