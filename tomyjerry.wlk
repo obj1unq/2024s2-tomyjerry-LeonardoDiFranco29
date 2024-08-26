@@ -19,7 +19,12 @@ object tom {
 		//Completar!
 		return 5 + energia / 10
 	}
-	
+	method puedeComer(distancia) {
+	  return energia > distancia/2
+	}
+	method quiereComer(raton, distancia) {
+	  return tom.puedeComer(distancia) and (distancia /2) < raton.peso() + 12
+	}
 }
 
 object jerry {
